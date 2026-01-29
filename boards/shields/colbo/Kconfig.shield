@@ -1,0 +1,4 @@
+config SHIELD_COLBO_LEFT
+    def_bool $(shields_list_contains,colbo_left)
+config SHIELD_COLBO_RIGHT
+    def_bool $(shields_list_contains,colbo_right)

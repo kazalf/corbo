@@ -1,0 +1,14 @@
+
+if SHIELD_COLBO_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "colbo"
+
+endif
+
+if SHIELD_COLBO_LEFT || SHIELD_COLBO_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
