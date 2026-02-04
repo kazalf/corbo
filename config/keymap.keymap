@@ -29,7 +29,7 @@
             bindings =
                 <&kp LG(R)>,
                 <&macro_wait_time 100>,
-                <&kp C &kp A &kp L &kp C &kp RET>;
+                <&kp INTERNATIONAL_5 &kp C &kp A &kp L &kp C &kp RET>;
 
             label = "CALC";
         };
