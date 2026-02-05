@@ -40,10 +40,10 @@
 
         layer_0 {
             bindings = <
-&mt ESC TAB     &kp Q  &kp W  &kp E  &kp R                      &kp T         &msc SCRL_UP    &mkp LCLK    &kp Y            &kp U                         &kp I      &kp O    &kp P         &kp BACKSPACE
-&kp LEFT_SHIFT  &kp A  &kp S  &kp D  &kp F                      &kp G         &msc SCRL_DOWN               &kp H            &kp J                         &kp K      &kp L    &mt SQT SEMI  &mt RIGHT_SHIFT MINUS
-&kp LCTRL       &kp Z  &kp X  &kp C  &kp V                      &kp B                                      &kp N            &kp M                         &kp COMMA  &kp DOT  &kp FSLH      &kp ENTER
-                                     &mt LEFT_ALT INT_MUHENKAN  &lt 1 DELETE  &lt 3 SPACE     &lt 3 ENTER  &lt 2 BACKSPACE  &mt LEFT_WIN INTERNATIONAL_4
+&mt ESC TAB     &kp Q  &kp W  &kp E  &kp R                      &kp T         &mt C_AC_SCROLL_UP PAGE_UP      &mkp LCLK    &kp Y            &kp U                         &kp I      &kp O    &kp P         &kp BACKSPACE
+&kp LEFT_SHIFT  &kp A  &kp S  &kp D  &kp F                      &kp G         &mt C_AC_SCROLL_DOWN PAGE_DOWN               &kp H            &kp J                         &kp K      &kp L    &mt SQT SEMI  &mt RIGHT_SHIFT MINUS
+&kp LCTRL       &kp Z  &kp X  &kp C  &kp V                      &kp B                                                      &kp N            &kp M                         &kp COMMA  &kp DOT  &kp FSLH      &kp ENTER
+                                     &mt LEFT_ALT INT_MUHENKAN  &lt 1 DELETE  &lt 3 SPACE                     &lt 3 ENTER  &lt 2 BACKSPACE  &mt LEFT_WIN INTERNATIONAL_4
             >;
         };
 
