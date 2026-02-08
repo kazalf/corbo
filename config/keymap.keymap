@@ -88,7 +88,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans  &trans     &mkp LCLK  &mkp MB3        &mkp RCLK                           &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans                &msc SCRL_UP    &mt LA(RIGHT_ARROW) LA(LEFT_ARROW)  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                        &msc SCRL_DOWN  &trans                              &trans  &trans  &trans  &trans
-                                &trans  &trans  &mkp LCLK  &mkp RCLK  &trans          &trans
+                                &trans  &trans  &mkp LCLK  &trans     &trans          &trans
             >;
         };
     };
